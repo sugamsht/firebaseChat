@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebaseChat/static/css/main.d5c0ca3d.chunk.css",
+    "main.js": "/firebaseChat/static/js/main.a2b47fc2.chunk.js",
+    "main.js.map": "/firebaseChat/static/js/main.a2b47fc2.chunk.js.map",
+    "runtime-main.js": "/firebaseChat/static/js/runtime-main.be0d4e37.js",
+    "runtime-main.js.map": "/firebaseChat/static/js/runtime-main.be0d4e37.js.map",
+    "static/js/2.b02e726b.chunk.js": "/firebaseChat/static/js/2.b02e726b.chunk.js",
+    "static/js/2.b02e726b.chunk.js.map": "/firebaseChat/static/js/2.b02e726b.chunk.js.map",
+    "index.html": "/firebaseChat/index.html",
+    "precache-manifest.4359175fa77caf26b73025a075ea16f8.js": "/firebaseChat/precache-manifest.4359175fa77caf26b73025a075ea16f8.js",
+    "service-worker.js": "/firebaseChat/service-worker.js",
+    "static/css/main.d5c0ca3d.chunk.css.map": "/firebaseChat/static/css/main.d5c0ca3d.chunk.css.map",
+    "static/js/2.b02e726b.chunk.js.LICENSE.txt": "/firebaseChat/static/js/2.b02e726b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be0d4e37.js",
+    "static/js/2.b02e726b.chunk.js",
+    "static/css/main.d5c0ca3d.chunk.css",
+    "static/js/main.a2b47fc2.chunk.js"
+  ]
+}
